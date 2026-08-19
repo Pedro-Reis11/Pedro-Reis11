@@ -145,7 +145,7 @@ Collection of SQL projects covering modeling, joins, aggregations, indexing, nor
 
 <div align="center">
 
-<a href="SEU_LINKEDIN">
+<a href="www.linkedin.com/in/pedro-veríssimo-rocha-reis">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -169,13 +169,3 @@ Collection of SQL projects covering modeling, joins, aggregations, indexing, nor
 
 </div>
 
----
-
-### 🧠 Fun Fact
-
-```text
-I believe consistency beats motivation.
-Small improvements every day lead to remarkable results.
-```
-
-</div>
