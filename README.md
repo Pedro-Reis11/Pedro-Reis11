@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Pedro Reis
+# Olá, eu sou Pedro Reis
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Java+%26+Spring+Boot+Developer;Backend+Engineering+Enthusiast;Building+Scalable+Applications;Always+Learning+Something+New" />
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
 ```java
 public class PedroReis {
@@ -46,7 +46,7 @@ public class PedroReis {
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -56,7 +56,7 @@ public class PedroReis {
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 ```text
 ✓ Advanced Java
@@ -71,23 +71,23 @@ public class PedroReis {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🚚 Delivery API
+### Delivery API
 
 RESTful API developed using Java, Spring Boot, JPA, and relational databases.
 
-### 🏥 ClinicHub
+### ClinicHub
 
 Healthcare management platform focused on usability, scalability, and modern software architecture.
 
-### 🗄️ Database Studies
+### Database Studies
 
 Collection of SQL projects covering modeling, joins, aggregations, indexing, normalization, and performance optimization.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -99,7 +99,7 @@ Collection of SQL projects covering modeling, joins, aggregations, indexing, nor
 
 ---
 
-## 🔥 Contribution Streak
+## Contribution Streak
 
 <div align="center">
 
@@ -109,7 +109,7 @@ Collection of SQL projects covering modeling, joins, aggregations, indexing, nor
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
 
@@ -119,7 +119,7 @@ Collection of SQL projects covering modeling, joins, aggregations, indexing, nor
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -129,7 +129,7 @@ Collection of SQL projects covering modeling, joins, aggregations, indexing, nor
 
 ---
 
-## 🎯 2026 Goals
+## Future Goals
 
 * Build production-ready applications
 * Master Java and Spring ecosystem
@@ -141,7 +141,7 @@ Collection of SQL projects covering modeling, joins, aggregations, indexing, nor
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -153,7 +153,7 @@ Collection of SQL projects covering modeling, joins, aggregations, indexing, nor
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -165,7 +165,7 @@ Collection of SQL projects covering modeling, joins, aggregations, indexing, nor
 
 <div align="center">
 
-### ⚡ "Building. Learning. Improving."
+### "Building. Learning. Improving."
 
 </div>
 
